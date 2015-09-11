@@ -1,2 +1,2 @@
 # admission-test
-a simple relating to my admission in university
+a simple project relating to my admission in university
